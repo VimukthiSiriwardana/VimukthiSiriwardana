@@ -159,7 +159,7 @@ Smart water level monitoring system using sensors and microcontroller.
 ## 📫 Contact Me
 
 📩 Email: vimukthi.induwara2004@gmail.com  
-🔗 LinkedIn: linkedin.com/in/vimukthi-siriwardana-363204192  
+🔗 LinkedIn: https://www.linkedin.com/in/vimukthisiriwardana
 💻 GitHub: github.com/VimukthiSiriwardana  
 
 ---
