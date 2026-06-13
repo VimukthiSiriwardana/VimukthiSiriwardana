@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2563EB&height=200&section=header&text=Vimukthi%20Siriwardana&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Systems%20and%20Network%20Engineering%20%7C%20SLIIT%20%F0%9F%87%B1%F0%9F%87%B0&descSize=15&descAlignY=58&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2563EB&height=200&section=header&text=Vimukthi%20Siriwardana&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Systems%20and%20Network%20Engineering%20%7C%20SLIIT&descSize=15&descAlignY=58&descColor=94A3B8" width="100%"/>
 
 </div>
 
