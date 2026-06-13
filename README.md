@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2563EB&height=200&section=header&text=Vimukthi%20Siriwardana&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Systems%20%26%20Network%20Engineering%20%7C%20SLIIT%20%F0%9F%87%B1%F0%9F%87%B0&descSize=15&descAlignY=58&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2563EB&height=200&section=header&text=Vimukthi%20Siriwardana&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Systems%20and%20Network%20Engineering%20%7C%20SLIIT%20%F0%9F%87%B1%F0%9F%87%B0&descSize=15&descAlignY=58&descColor=94A3B8" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Designing+%26+Deploying+Enterprise+Infrastructure;Network+Engineering+%7C+Linux+Administration;Cloud+%7C+DevOps+%7C+Cybersecurity;Open+to+Internships+%26+Collaborations)](https://github.com/VimukthiSiriwardana)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Designing+and+Deploying+Enterprise+Infrastructure;Network+Engineering+%7C+Linux+Administration;Cloud+%7C+DevOps+%7C+Cybersecurity;Open+to+Internships+and+Collaborations)](https://github.com/VimukthiSiriwardana)
 
 </div>
 
